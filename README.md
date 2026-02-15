@@ -1,7 +1,7 @@
-# Hi, I'm Claudiu Ivan
+# Claudiu Ivan
 
-### Principal Architect & Engineer specializing in high-performance systems for FinTech & InsurTech.
+Building tools and exploring agentic software engineering.
 
-I architect and build the complex data-intensive systems that power FinTech and InsurTech. My practice is built on a decade of experience translating extreme business requirements into resilient, scalable, and provably correct software.
+Background in software architecture. Now mostly thinking about how to build at industrial speed.
 
-I'm always open to discussing complex technical challenges and new opportunities.
+I write at [claudiu-ivan.com](https://www.claudiu-ivan.com).
